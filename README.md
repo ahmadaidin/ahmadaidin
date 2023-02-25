@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend Engineer
 ----------------
 
-Code in golang (prev: python, react, nodejs, django). I'm starting to give back to community with my code and knowledge
+Code in Go, previously python and javascript. I'm starting to give back to community with my code and knowledge
 
 * 🌍  I'm based in Bandung, Indonesia 🇮🇩
 * ✉️  You can contact me at [ahmadaidin08.aa@gmail.com](mailto:ahmadaidin08.aa@gmail.com)
@@ -52,3 +52,7 @@ src="https://img.shields.io/twitter/follow/aidinahmad?logo=twitter&style=for-the
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/ahmadaidin/gonostic" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadaidin&repo=gonostic&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+### Support Me
+
+<a href="https://www.buymeacoffee.com/aidin"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
