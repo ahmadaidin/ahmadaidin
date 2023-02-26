@@ -6,7 +6,7 @@ Backend Engineer
 
 Code in Go, previously python and javascript. I'm starting to give back to community with my code and knowledge
 
-* 🌍  I'm based in Bandung, Indonesia 🇮🇩
+* 🌍  I'm based in Indonesia 🇮🇩
 * ✉️  You can contact me at [ahmadaidin08.aa@gmail.com](mailto:ahmadaidin08.aa@gmail.com)
 * 🚀  I'm currently working on [agnostic golang web backend boilerplate](http://github.com/ahmadaidin/gonostic)
 * 🧠  I'm learning How to contribute to community
