@@ -8,10 +8,9 @@ Code in Go, previously python and javascript. I'm starting to give back to commu
 
 * 🌍  I'm based in Indonesia 🇮🇩
 * ✉️  You can contact me at [ahmadaidin08.aa@gmail.com](mailto:ahmadaidin08.aa@gmail.com)
-<!-- * 🚀  I'm currently working on [gonostic](http://github.com/ahmadaidin/gonostic) -->
 * 🧠  I'm learning How to contribute to community
 * ⚡  I'm still following Frontend technology updates
-
+<!-- * 🚀  I'm currently working on [gonostic](http://github.com/ahmadaidin/gonostic) -->
 <a href="https://www.twitter.com/aidinahmad" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/aidinahmad?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
